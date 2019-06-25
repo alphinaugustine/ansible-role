@@ -9,7 +9,7 @@ This role can be used to install a fully featured LAMP stack on Amazon Linux. Ti
   - Can be modified to support additional modules
   - Can be used to create a standalone LAMP stack or deploy applications over the current LAMP stack
 
-#### For Customization
+#### For Role Customization
 > Edit roles/default/main.yml 
 - mysql_root: This variable defines the root password ofthe MySQL database
 - mysql_user: This variable defines the additional database user 
